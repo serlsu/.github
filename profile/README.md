@@ -2,9 +2,4 @@
 
 This is the Software Engineering and Robotics laboratory at Louisiana State University.
 
-**Principal Investigator:** Felipe Fronchetti
-
-**Graduate Students:**
-- Juliana Freitas
-- Elijah Phifer
-- Nabila Fairuz
+![Laboratory Picture](https://github.com/riseatlsu/.github/blob/main/IMG_7153.jpeg?raw=true)
